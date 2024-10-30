@@ -1,0 +1,6 @@
+44 docente pedro rodriguez 13000
+50 docente maria perez 25000
+60 docente juan jimenez 12000
+12 docente domingo juarez 20000
+3 conserje josefina ramirez 3000
+4 secretaria sara camilo 15000
